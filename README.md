@@ -1,9 +1,9 @@
-# **Hello! My name is AaXanah! I am a Full Stack Developer!🌷🚀**  
+# **Hello! My name is AaXanah, and I am a Full Stack Developer!**  
   
 ### Passions  
-- I specialize in ui/ux design using Figma and react code  
+- I specialize in ui/ux design using Figma, Adobe Express, Adobe Illustrator, and more
   
-- I enjoy using React to build my applications  
+- I utilize React to build fun and scalable applications, ranging from games to ecommerce to portfolios.
   
 <br/>  
 
