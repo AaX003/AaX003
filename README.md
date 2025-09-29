@@ -4,6 +4,8 @@
 - I specialize in frontend development using React to build fun and scalable applications.
 - I experiment with backend technologies including MongoDB, ExpressJS, MySQL, and more.
 - I love drawing and sometimes dapple with UI design using Figma.
+
+- Let's work together! I would love to hear your thoughts! Drop a follow or connect with me on LinkedIn!
   
 <br/>  
 
