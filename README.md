@@ -8,7 +8,7 @@
   
 
 ### About Me  
-My software development journey all started during college. Initially, I used to despise coding because I thought I wasn't good at it, and my negativity towards it became increasingly prominent when I started comparing my programs with other people's. However, my perspective started to shift after realizing that my code didn't have to be perfect, especially when I was just starting out. As a black female who is always eager to learn and explore new opportunities, I aim to help other black women in succeeding in a tough field like STEM.   
+My software development journey all started during college. Initially, I used to despise coding because I thought I wasn't good at it, and my negativity towards it became increasingly prominent when I started comparing my programs with other people's. However, my perspective started to shift after realizing that my code didn't have to be perfect, especially when I was just starting out. As someone who is always eager to learn and explore new opportunities, I aim to inspire others through my coding projects.   
   
 
 ### 🌟 Achievements  
@@ -22,7 +22,7 @@ My software development journey all started during college. Initially, I used to
 
 ### 💪 Future Endeavors  
 - Actively participate in open-source communities and challenges such as Hackathons, GitHub repositories, and more.
-- Provide teachings to other black females and other diverse peoples who inspire to work in STEM just like me. 🌟
+- Provide teachings to others who inspire to code. 🌟
 - Continue building and designing scalable digital solutions that not only enhance enjoyability, but practicality, specifically for those who may lack it elsewhere. 🌟
 - Build an app where I can combine assistance for those who struggle with time/task management and depressive symptoms. 🌟
 - Make my family proud! 🌟🌟🌟  
