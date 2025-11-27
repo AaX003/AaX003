@@ -4,7 +4,7 @@
   
 
 ### Who am I  
-<div>Hi there! My name is AXACODES (or Ayana if you want to get personal) and I'm an aspiring software developer with a passion for building and designing web applications! I've been coding for almost three years now and while I'm still learning, I've definitely enjoyed the journey and all of the milestones I have achieved! I hope you'll enjoy being on the journey with me! </div>  
+<div>Hi there! My name is AXACODES (or AaXanah if you want to get personal) and I'm an aspiring software developer with a passion for building and designing web applications! I've been coding for almost three years now and while I'm still learning, I've definitely enjoyed the journey and all of the milestones I have achieved! I hope you'll enjoy being on the journey with me! </div>  
   
 
 ### About Me  
@@ -77,7 +77,7 @@ My software development journey started during college. Initially, I used to *ha
 <a href="https://github.com/AaX003" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/ayana-hill-79991431a" target="_blank">
+<a href="https://www.linkedin.com/in/aaxanah-hill-79991431a" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://youtube.com/@axacodes?si=DmpfyyW4IKszsHW1" target="_blank">
