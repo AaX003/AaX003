@@ -22,7 +22,8 @@ My software development journey started during college. Initially, I used to *ha
 - 🤝 Actively participate in open-source communities and challenges such as Hackathons, GitHub repositories, and more.
 - 🧑‍🏫 Provide teachings to others who inspire to code. 
 - 🧰 Continue building and designing scalable digital solutions that not only enhance enjoyability, but practicality, specifically for those who may lack it elsewhere. 
-- 📱 Build an app where I can combine assistance for those who struggle with time/task management and depressive symptoms. 
+- 📱 Build an app where I can combine assistance for those who struggle with time/task management and depressive symptoms.
+- ✏️ Continue working on my personal blog: DevNotebook
 - 🌟 Make my family proud!
 
 ### Featured Projects 
