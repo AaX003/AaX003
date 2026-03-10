@@ -87,19 +87,3 @@ My software development journey started during college. Initially, I used to *ha
   
 <br/>  
 
-## Github Stats  
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AaX003&show_icons=true&hide_border=true&bg_color=FFF8FA&title_color=E9A6FF&text_color=4A4A4A&icon_color=F4A7B9"
-    height="160"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaX003&layout=compact&hide_border=true&bg_color=E6FAF5&title_color=F8A8C9&text_color=4A4A4A&icon_color=61DAFB"
-    height="160"
-  />
-
-</div>
-
-
